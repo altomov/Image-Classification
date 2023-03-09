@@ -1,1 +1,2 @@
 # Image-Classification
+This repository contains code and models for image classification using Convolutional Neural Networks (CNNs). The goal of image classification is to assign a label to an input image based on its content. The repository includes Python scripts for training and evaluating CNN models on popular image classification datasets. The code is implemented using the TensorFlow framework, which provides a user-friendly and efficient platform for building and training deep learning models.
